@@ -46,7 +46,7 @@
         "Arduino",
         "IoT",
         "Raspberry Pi",
-        "Sensor",
+        "Sensors",
         "Single Board Computer",
         "Microcontroller",
         "Wireless Networking"
@@ -67,13 +67,7 @@
     {
       "name": "Control Systems",
       "keywords": [
-        "Arduino",
-        "IoT",
-        "Raspberry Pi",
-        "Sensor",
-        "Single Board Computer",
-        "Microcontroller",
-        "Wireless Networking"
+        ""
       ]
     }
   ],
