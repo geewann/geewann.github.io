@@ -29,20 +29,51 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Embedded Systems",
       "keywords": [
         "Arduino",
-        "Etc"
+        "IoT",
+        "Raspberry Pi",
+        "Sensor",
+        "Single Board Computer",
+        "Microcontroller",
+        "Wireless Networking"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Internet of Things",
       "keywords": [
+        "Arduino",
+        "IoT",
+        "Raspberry Pi",
+        "Sensor",
+        "Single Board Computer",
+        "Microcontroller",
+        "Wireless Networking"
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Wireless Sensor Networking",
       "keywords": [
+        "Arduino",
+        "IoT",
+        "Raspberry Pi",
+        "Sensor",
+        "Single Board Computer",
+        "Microcontroller",
+        "Wireless Networking"
+      ]
+    },
+    {
+      "name": "Control Systems",
+      "keywords": [
+        "Arduino",
+        "IoT",
+        "Raspberry Pi",
+        "Sensor",
+        "Single Board Computer",
+        "Microcontroller",
+        "Wireless Networking"
       ]
     }
   ],
