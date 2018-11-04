@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Geena N. Wann-Kung",
     "label": "Student",
     "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "email": "gwann@hawaii.edu",
+    "phone": "808-000-0000",
+    "website": "https://geewann.github.io",
+    "summary": "I am studying for a B.S. in Electrical Engineering at the University of Hawaii. I expect to graduate in Spring, 2019.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -17,23 +17,13 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
+        "username": "geewann",
         "url": "http://github.com/changeme"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
+        "username": "geewann",
         "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
       }
     ]
   },
@@ -42,7 +32,7 @@
       "name": "internet of things",
       "keywords": [
         "Arduino",
-        "TI MSP430"
+        "Etc"
       ]
     },
     {
