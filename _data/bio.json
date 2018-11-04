@@ -43,31 +43,16 @@
     {
       "name": "Internet of Things",
       "keywords": [
-        "Arduino",
-        "IoT",
-        "Raspberry Pi",
-        "Sensors",
-        "Single Board Computer",
-        "Microcontroller",
-        "Wireless Networking"
       ]
     },
     {
       "name": "Wireless Sensor Networking",
       "keywords": [
-        "Arduino",
-        "IoT",
-        "Raspberry Pi",
-        "Sensor",
-        "Single Board Computer",
-        "Microcontroller",
-        "Wireless Networking"
       ]
     },
     {
       "name": "Control Systems",
       "keywords": [
-        ""
       ]
     }
   ],
