@@ -58,15 +58,18 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Progamming Languages, IDEs and Software",
       "level": "",
       "keywords": [
         "C",
         "C++",
-        "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Python",
+        "R",
+        "Arduino",
+        "MATLAB",
+        "PyCharm"
+        
       ]
     },
     {
@@ -76,17 +79,15 @@
         "MacOS",
         "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Electrical Engineering (expected Spring, 2019)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2016-08-20",
       "endDate": "Present",
       "gpa": "",
       "courses": [
